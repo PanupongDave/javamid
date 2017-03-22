@@ -8,7 +8,10 @@ public class EngStudent extends Student{
   }
 
   public String toString(){
-    String s = stCode + " " + name + " " +gpa+" "+faculty+" "+major;
+    String s = stCode + " " + name + " " +gpa+" "+faculty+" "+major
+    ;
     return s;
   }
 }
+
+    
